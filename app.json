@@ -11,8 +11,7 @@
     "telegram-bot",
     "pyrogram"
     ],
-    "env":
-      },
+    "env":{,
       "BOT_TOKEN": {
         "description": "~ اكتب توكن البوت .",
         "value": "",
